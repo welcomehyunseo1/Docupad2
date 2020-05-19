@@ -1,0 +1,25 @@
+{
+  "name": "docupad2",
+  "version": "1.0.0",
+  "description": "For blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "good"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/welcomehyunseo/Docupad2.git"
+  },
+  "keywords": [
+    "Docupad2"
+  ],
+  "author": "welcomehyunseo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/welcomehyunseo/Docupad2/issues"
+  },
+  "homepage": "https://github.com/welcomehyunseo/Docupad2#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
